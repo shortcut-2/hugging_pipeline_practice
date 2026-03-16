@@ -1,6 +1,7 @@
 # 🤗 HuggingFace Pipeline 실습
 ### 🔮나는 전생에 무엇이었을까?
 - HuggingFace를 이용한 랜덤 전생 출력기
+  
   *python 과제 재미있는 함수 만들기 활용*
 ---
 ### 실행
