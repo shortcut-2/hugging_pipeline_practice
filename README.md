@@ -3,6 +3,8 @@
 - HuggingFace를 이용한 랜덤 전생 출력기
   
   *python 과제 재미있는 함수 만들기 활용*
+
+- 사용 모델: LiquidAI/LFM2.5-1.2B-Instruct [→→→](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct)
 ---
 ### 실행
 ```
